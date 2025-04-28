@@ -1,0 +1,2 @@
+<h1>Utilização de SINATRA</h1>
+<p>Este projeto visa demonstração prática de conteúdo estudado no capítulo 1 de Tanenbaum sobre Sockets. Apesar de não haver uma página a espera, é possível ver e utilizar o código na mesma rede qual o "host" esteja hospedado. A tecnologia usada é Ruby e SINATRA.</p>
